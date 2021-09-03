@@ -37,7 +37,21 @@ The selection process is simple. During each generation, 2 copies of the origina
 ## Results
 
 <p align="center">
-  <img src="https://i.ibb.co/nbp8Gdx/telegram.png" width="350" title="hover text">
+  <img src="https://i.ibb.co/L8jGCqT/chrome.png" width="350" alt="chrome original">
+  <img src="https://i.ibb.co/pnLcBvg/drawing-100000.png" width="350" alt="chrome voronoi">
 </p>
 
-![telegram](https://i.ibb.co/nbp8Gdx/telegram.png)
+<p align="center">
+  <img src="https://i.ibb.co/4PPHMNG/killua.jpg" width="350" alt="killua original">
+  <img src="https://i.ibb.co/0j5yQZC/killua-GEN-163000.png" width="350" alt="killua voronoi">
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/VCvJzXp/pepeSad.png" width="350" alt="pepeSad original">
+  <img src="https://i.ibb.co/3yVjpqp/pepe-png-GEN-088000.png" width="350" alt="pepeSad voronoi">
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/vDKy2cY/deidara.jpg" width="350" alt="deidara original">
+  <img src="https://i.ibb.co/XFGWWmF/deidara-GEN-166000.png" width="350" alt="deidara voronoi">
+</p>
