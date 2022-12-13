@@ -1,4 +1,8 @@
-# Genetic Algorithm
+# Geney (Genetic Algorithm)
+
+<p align="center">
+  <img src="./gif.gif" width="250"><br/>
+</p>
 
 ## Introduction
 A genetic algorithm is a type of search and optimization based on biological concepts. The population represents the pool of possible solutions and they evolve by mutation and crossover. During each iteration, a part of the population is selected (usually the best fit) to survive. The survivors then mutate and breed to produce a new generation of chromosomes. The previous steps are repeated until the solutions converge to the desired output. One of the trickiest parts of applying genetic algorithms in digital art is choosing the fitness function. This is mainly because art is highly subjective which makes it hard to evaluate numerically. The approach that was taken here is to evaluate the difference from the desired image. And in order to compensate for the loss of evaluating artistic values in the fitness function, voronoi diagrams were used to add a sense of art with its uniformity mixed with the randomness offered by the genetic algorithm.
